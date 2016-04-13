@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 
 
-public class ThreadMme extends Thread 
+public class mme extends ex 
 {
 public synchronized void run()
 {
