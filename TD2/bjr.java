@@ -1,4 +1,4 @@
-public class Bonjour {
+public class bjr {
 
 	/**
 	 * @param args
