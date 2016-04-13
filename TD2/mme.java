@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 
 
-public class mme extends ex 
+public class mme extends bjr 
 {
 public synchronized void run()
 {
