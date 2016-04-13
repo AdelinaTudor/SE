@@ -11,7 +11,7 @@ import java.io.FileNotFoundException;
     import java.util.logging.Logger;
     import java.util.logging.XMLFormatter;
         
-public class exerc3
+public class ex
 {
 
 	public static void main(String[] args) throws InterruptedException {
