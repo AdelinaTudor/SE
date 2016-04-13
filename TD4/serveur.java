@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class Serveur extends Thread{
+public class serveur extends Thread{
 
 protected ServerSocket ecouteurServeur;
 private int ConnectionsActives;
